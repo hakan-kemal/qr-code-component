@@ -70,7 +70,7 @@ body {
 }
 
 .card-description {
-  margin-top: var(--spacing-200);
+  margin-block-start: var(--spacing-200);
   color: var(--color-slate-500);
   font-size: 0.9375rem;
   line-height: 1.4;
